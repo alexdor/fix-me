@@ -1,4 +1,5 @@
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falexdor%2Ffix-me.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falexdor%2Ffix-me?ref=badge_shield)
 
 # FixMe Repo
 
@@ -2461,3 +2462,7 @@ In the future, we might start automatically compiling incompatible third-party m
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falexdor%2Ffix-me.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falexdor%2Ffix-me?ref=badge_large)
